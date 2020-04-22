@@ -1,0 +1,23 @@
+{
+  "name": "Julie_Portefolio2K",
+  "version": "1.0.0",
+  "description": "Use Library grid masonry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annietth/Julie_Portefolio2K.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annietth/Julie_Portefolio2K/issues"
+  },
+  "homepage": "https://github.com/annietth/Julie_Portefolio2K#readme",
+  "dependencies": {
+    "masonry-layout": "^4.2.2"
+  }
+}
