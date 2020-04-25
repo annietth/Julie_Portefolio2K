@@ -184,6 +184,7 @@ section {
 }
 .container {
     display: flex;
+    width: 100%;
 
 }
 .content {
@@ -200,4 +201,29 @@ section {
     width: 50%;
     display: flex;
     align-items: center;
+}
+.slider {
+    --sliderWidth: 400px;
+    width: var(--sliderWidth);
+    overflow: hidden;
+    position: relative;
+}
+  
+.slides {
+    display: flex;
+    transition: transform 0.3s;
+}
+  
+.slide {
+    width: var(--sliderWidth);
+    height: 200px;
+    width: 300px;
+    object-fit: cover;
+}
+  
+.right {
+    right: 100;
+}
+.left {
+    right: 0;
 }
