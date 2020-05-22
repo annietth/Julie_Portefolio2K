@@ -10,12 +10,25 @@ nav {
     align-items: center;
     color: #E89421;
     min-height: 8.1vh;
+<<<<<<< HEAD
+=======
+    font-family: nobel, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+>>>>>>> 4fe1d4f89c6ae0b38784375891bf5edab0c63ea6
 }
 
 .logo {
     font-size: 37px;
     text-transform: uppercase;
     letter-spacing: 5px;
+    font-family: nobel, sans-serif;
+    font-style: normal;
+}
+
+h4.julieoriol {
+    text-decoration: none;
 }
 
 .nav-links {
@@ -26,13 +39,21 @@ nav {
     list-style: none;
     letter-spacing: 3px;
     font-size: 14px;
+    font-family: nobel, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-weight: 18px;
 }
 
 .nav-links li {
     list-style: none;
     text-decoration: none;
     letter-spacing: 3px;
-    font-size: 14px;   
+    font-size: 14px;
+    font-family: nobel, sans-serif;
+    font-weight: 400;
+    font-style: normal;;
+    font-weight: 18px;
 }
 
 
@@ -42,6 +63,10 @@ nav {
     color: #E89421;
     letter-spacing: 3px;
     font-size: 14px;
+    font-family: nobel, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-weight: 18px;
 }
 
 .nav-links a:hover {
@@ -86,10 +111,8 @@ nav {
         width: 50%;
         transition: transform 0.5s ease-in;
         z-index: 1;
-        
         opacity: 0;
-        
-        
+               
     }
     .nav-links li {
         z-index: 2;
@@ -134,7 +157,7 @@ nav {
     
 }
 .grid-item:hover {
-    opacity: 10%;
+    opacity: 40%;
     cursor: pointer;
 
 }
