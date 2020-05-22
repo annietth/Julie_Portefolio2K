@@ -9,11 +9,11 @@ nav {
     justify-content: space-around;
     align-items: center;
     color: #E89421;
-    min-height: 8vh;
+    min-height: 8.1vh;
 }
 
 .logo {
-    font-size: 36px;
+    font-size: 37px;
     text-transform: uppercase;
     letter-spacing: 5px;
 }
@@ -21,7 +21,7 @@ nav {
 .nav-links {
     display: flex;
     justify-content: space-around;
-    width: 40%;
+    width: 41%;
     text-decoration: none;
     list-style: none;
     letter-spacing: 3px;
