@@ -104,6 +104,7 @@
         cursor: pointer;
     }
     .footer {
+        margin-top: 5%;
         display: flex;
         background-color:black;
         padding: 2%;  
