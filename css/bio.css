@@ -1,13 +1,11 @@
 .me {
     display: flex;
-    flex-direction: row-reverse;
-    
-    
     padding: 10%;
     justify-content: space-around;
 }
 img {
-    max-width: 400px;
+    width: 800px;
+    height: 300px;
 }
 
 h1 {

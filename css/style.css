@@ -15,8 +15,7 @@
         font-weight: 400;
         font-style: normal;
         text-decoration: none;
-    }
-        
+    }   
     .logo {
         font-size: 37px;
         text-transform: uppercase;
@@ -110,10 +109,10 @@
         cursor: pointer;
     }
     .footer {
-        margin-top: 5%;
+        margin-top: 10%;
         display: flex;
         background-color:black;
-        padding: 2%;  
+        padding: 1%;  
     }
     .networks {
         display: flex;
