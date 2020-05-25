@@ -121,6 +121,12 @@
         width: 80%;
         color: white;
     }
+    .mail {
+        text-align: center;
+        margin-top: 26%;
+        color: #b25121;
+        font-size: 48px;
+    }
 }
 @media(max-width:600px){
     .logo a{
@@ -162,5 +168,11 @@
     .burger {
         display: block;
         cursor: pointer; 
+    }
+    .mail {
+        text-align: center;
+        margin-top: 26%;
+        color: #b25121;
+        font-size: 48px;
     }
 }
