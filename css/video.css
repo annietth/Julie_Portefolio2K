@@ -8,10 +8,14 @@ h1 {
     text-align: center;
     margin-top: 3%;
     font-family: nobel, sans-serif;
+    font-style: normal;
+    font-weight: 18px;
     
 }
 p {
     margin-top: 3%;
     text-align: center;
     font-family: nobel, sans-serif;
+    font-style: normal;
+    font-weight : 12px;
 }

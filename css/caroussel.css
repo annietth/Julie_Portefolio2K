@@ -29,9 +29,13 @@
 h1 {
     text-align: center;
     margin-top: 5%;
+    font-style: normal;
+    font-weight: 18px;
 }
 p {
     width: 100vh;
    text-align: center;
    margin-top: 5%;
+   font-style: normal;
+   font-weight : 12px;
 }
