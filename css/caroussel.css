@@ -1,21 +1,9 @@
-body {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-.container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 50vh;
-    margin-top: 10%;
-} 
-  
 .slider {
-    
-    width: 400px;
+    --sliderWidth: 400px;
+    width: var(--sliderWidth);
     overflow: hidden;
     position: relative;
+    margin-top: 5%;
 }
   
 .slider__slides {
@@ -24,8 +12,8 @@ body {
 }
   
 .slider__slide {
-    width: 400px;
-    height: 500px;
+    width: var(--sliderWidth);
+    height: 300px;
     object-fit: cover;
 }
   
@@ -42,10 +30,12 @@ body {
 .slider__arrow--right {
     right: 0;
 }
-.texte {
-    margin-top: 10%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    
+h1 {
+    text-align: center;
+    margin-top: 5%;
+}
+p {
+    width: 100vh;
+   text-align: center;
+   margin-top: 5%;
 }
