@@ -29,9 +29,11 @@
 h1 {
     text-align: center;
     margin-top: 5%;
+    font-family: nobel, sans-serif;
 }
 p {
     width: 100vh;
    text-align: center;
    margin-top: 5%;
+   font-family: nobel, sans-serif;
 }

@@ -7,9 +7,11 @@ iframe {
 h1 {
     text-align: center;
     margin-top: 3%;
-    text-decoration: underline;
+    font-family: nobel, sans-serif;
+    
 }
 p {
     margin-top: 3%;
     text-align: center;
+    font-family: nobel, sans-serif;
 }
