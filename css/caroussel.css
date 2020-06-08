@@ -5,18 +5,15 @@
     position: relative;
     margin-top: 5%;
 }
-  
 .slider__slides {
     display: flex;
     transition: transform 0.3s;
 }
-  
 .slider__slide {
     width: var(--sliderWidth);
     height: 300px;
     object-fit: cover;
-}
-  
+}  
 .slider__arrow {
     position: absolute;
     top: 50%;
@@ -25,8 +22,7 @@
     width: 30px;
     text-align: center;
     line-height: 30px;
-}
-  
+} 
 .slider__arrow--right {
     right: 0;
 }
