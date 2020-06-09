@@ -18,13 +18,16 @@
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    background: yellow;
+    background: #b25121;
     width: 30px;
     text-align: center;
     line-height: 30px;
 } 
 .slider__arrow--right {
     right: 0;
+}
+.slider__arrow--left {
+    color: white;
 }
 h1 {
     font-family: nobel, sans-serif;
