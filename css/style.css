@@ -110,7 +110,8 @@
         margin-top: 10%;
         display: flex;
         background-color:#b25121;
-        padding: 1%;  
+        padding: 4%;  
+        margin-top: 5%;
     }
     .networks {
         display: flex;

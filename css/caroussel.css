@@ -25,6 +25,7 @@
 } 
 .slider__arrow--right {
     right: 0;
+    color: white;
 }
 .slider__arrow--left {
     color: white;
@@ -43,6 +44,6 @@ p {
     font-style: normal;
     width: 50%;
     font-weight : 12px;
-    text-align: center;
     margin-top: 4%;
+    text-align: baseline;
 }
