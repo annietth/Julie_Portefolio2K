@@ -97,7 +97,7 @@
         transform: translateX(15%);
     }
     .grid-item {
-        width: 204px;
+        width: 200px;
         padding: 5px;
         box-sizing: border-box;
         display:grid;  
