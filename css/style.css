@@ -97,10 +97,10 @@
         transform: translateX(15%);
     }
     .grid-item {
-        width: 200px;
+        width: 204px;
         padding: 5px;
         box-sizing: border-box;
-        display:inline;  
+        display:grid;  
     }
     .grid-item:hover {
         opacity: 40%;

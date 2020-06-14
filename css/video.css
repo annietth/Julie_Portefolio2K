@@ -17,6 +17,8 @@ p {
     text-align: center;
     font-family: nobel, sans-serif;
     font-style: normal;
-    font-weight : 12px;
+    font-weight: 300;
     width: 50%;
+    text-align: baseline;
+    
 }
