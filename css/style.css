@@ -92,15 +92,16 @@
         transform: rotate(45deg) translate(-5px,6px);
     }
     .grid {
+        display: grid;
         margin-top: 100px;
         width: 100%;
         transform: translateX(15%);
     }
     .grid-item {
+        display:grid;  
         width: 200px;
         padding: 5px;
         box-sizing: border-box;
-        display:grid;  
     }
     .grid-item:hover {
         opacity: 40%;
