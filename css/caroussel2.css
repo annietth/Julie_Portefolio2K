@@ -39,10 +39,11 @@ h1 {
     font-weight: 18px;
 }
 p {
-    width: 100vh;
-   text-align: center;
-   margin-top: 5%;
-   font-family: nobel, sans-serif;
-   font-style: normal;
-   font-weight : 12px;
+    font-family: nobel, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    width: 50%;
+    font-weight : 12px;
+    margin-top: 4%;
+    text-align: baseline;
 }

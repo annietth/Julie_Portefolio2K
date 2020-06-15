@@ -12,13 +12,13 @@ h1 {
     font-weight: 18px;
     
 }
-p {
-    margin-top: 3%;
-    text-align: center;
+p {   
     font-family: nobel, sans-serif;
-    font-style: normal;
     font-weight: 300;
+    font-style: normal;
     width: 50%;
+    font-weight : 12px;
+    margin-top: 4%;
     text-align: baseline;
     
 }
