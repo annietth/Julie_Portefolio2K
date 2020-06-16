@@ -1,7 +1,22 @@
 .mail {
     text-align: center;
     margin-top: 26%;
-    color: #b25121;
-    font-size: 48px;
+    font-size: 24px;
     font-family: nobel, sans-serif;
+}
+a {
+    color: #b25121;
+}
+.phone {
+    text-align: center;
+    color: #b25121;
+    font-size: 24px;
+    font-family: nobel, sans-serif;
+}
+.footer {
+    margin-top: 10%;
+    display: flex;
+    background-color: #b25121;
+    padding: 4%;
+    margin-top: 5%;
 }
