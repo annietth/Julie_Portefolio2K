@@ -93,6 +93,7 @@
     }
     .grid {
         display: grid;
+        grid-template-columns: repeat(3, 1fr);
         margin-top: 100px;
         width: 100%;
         transform: translateX(15%);
@@ -146,6 +147,23 @@
 @media (max-width: 375px){   
     body {
         overflow-x: hidden;
+    }
+    .grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        margin-top: 100px;
+        width: 100%;
+        transform: translateX(15%);
+    }
+    .grid-item {
+        display:grid;  
+        width: 200px;
+        padding: 5px;
+        box-sizing: border-box;
+    }
+    .grid-item:hover {
+        opacity: 40%;
+        cursor: pointer;
     }
     .nav-links {
         position: absolute;
